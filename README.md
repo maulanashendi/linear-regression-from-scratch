@@ -5,7 +5,7 @@ This repository contains Python code that demonstrates how to implement linear r
 
 ## Key Concepts
 ### Linear Regression
-Linear regression adalah metode statistik yang digunakan untuk memahami hubungan antara dua variabel: satu variabel independen (penjelas) dan satu variabel dependen (yang ingin diprediksi). Tujuannya adalah untuk dapat memprediksi nilai variabel dependen berdasarkan nilai variabel independen. the model looks like this:
+Linear regression is a statistical method used to understand the relationship between two variables: one independent (explanatory) variable and one dependent variable (the one you want to predict). The goal is to be able to predict the value of the dependent variable based on the value of the independent variable. the model looks like this:
 
 ```math
 y = \beta_0 + \beta_1 x + \epsilon
